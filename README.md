@@ -12,4 +12,4 @@
 - 날씨 데이터 기반 ML 파이프라인 (MLOps 7 팀)
 - 영화 추천 시스템
 
-📫 연락하기: hyeontae12@gmail.com
+📫 연락하기: hyoentae12@gmail.com
